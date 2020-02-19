@@ -47,20 +47,19 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """.,ad8888ba,    88b           d88  88  
- d8"'    `"8b   888b         d888  88  
-d8'        `8b  88`8b       d8'88  88  
-88          88  88 `8b     d8' 88  88  
-88          88  88  `8b   d8'  88  88  
-Y8,        ,8P  88   `8b d8'   88  88  
- Y8a.    .a8P   88    `888'    88  88  
-  `"Y8888Y"'    88     `8'     88  88
-
+logo = """ _______  ______  _________ ______  
+(  ___  )(  ___ \ \__   __/(  __  \ 
+| (   ) || (   ) )   ) (   | (  \  )
+| (___) || (__/ /    | |   | |   ) |
+|  ___  ||  __ (     | |   | |   | |
+| (   ) || (  \ \    | |   | |   ) |
+| )   ( || )___) )___) (___| (__/  )
+|/     \||/ \___/ \_______/(______/ 
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mOmi Chaudhary
-\033[1;96mInstagram \033[1;93m: \033[1;92mhttps://www.Instagram.com/Omi6t
-\033[1;96mFacebook  \033[1;93m: \033[1;92mhttps://www.facebook.com/Omi6t
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Omi6t
+\033[1;96mAuthor  \033[1;93m: \033[1;92mAbid Khan
+\033[1;96mInstagram \033[1;93m: \033[1;92mhttps://Abid Khan
+\033[1;96mFacebook  \033[1;93m: \033[1;92mhttps://Abid Khan
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Abid6t
 \033[1;91m======================================="""
 
 def tik():
@@ -81,15 +80,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mOmi Chaudhary
-\033[1;96mInstagram \033[1;93m: \033[1;92mhttps://www.Instagram.com/Omi6t
-\033[1;96mFacebook  \033[1;93m: \033[1;92mhttps://www.Facebook.com/Omi6t
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Omi6t
+\033[1;96mAuthor  \033[1;93m: \033[1;92mAbid Khan
+\033[1;96mInstagram \033[1;93m: \033[1;92mAbid Khan
+\033[1;96mFacebook  \033[1;93m: \033[1;92mAbid Khan
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Abid6t
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "Omi6t"
-CorrectPassword = "Omi"
+CorrectUsername = "Abid6t"
+CorrectPassword = "Abid"
 
 loop = 'true'
 while (loop == 'true'):
@@ -193,7 +192,7 @@ def menu():
 	print "\033[1;96m[\033[1;97m✓\033[1;96m]\033[1;93m Name \033[1;91m: \033[1;92m"+nama+"\033[1;97m               "
 	print "\033[1;96m[\033[1;97m✓\033[1;96m]\033[1;93m ID   \033[1;91m: \033[1;92m"+id+"\x1b[1;97m              "
 	print 42*"\033[1;96m="
-	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m Start Hacking With OMI"
+	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m Start Hacking"
 	print "\x1b[1;96m[\x1b[1;91m0\x1b[1;96m]\x1b[1;91m Exit            "
 	pilih()
 
