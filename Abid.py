@@ -55,10 +55,10 @@ logo = """ _______  ______  _________ ______
 ║╚══╗║╚═╝║──║║──║╔═╗║║╚═╝║║║───║╚═╝║
 ╚═══╝╚═══╝──╚╝──╚╝─╚╝╚═══╝╚╝───╚═══╝
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mAbid Khan
-\033[1;96mInstagram \033[1;93m: \033[1;92mAb.id6644
-\033[1;96mFacebook  \033[1;93m: \033[1;92mAbid Khan
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Abid6t
+\033[1;96mAuthor  \033[1;93m: \033[1;92mSHAHELYAS
+\033[1;96mInstagram \033[1;93m: \033[1;92mAb.shah126h
+\033[1;96mFacebook  \033[1;93m: \033[1;92ms92mSHAHELYAS
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/AFGHACKER
 \033[1;91m======================================="""
 
 def tik():
@@ -79,15 +79,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mAbid Khan
-\033[1;96mInstagram \033[1;93m: \033[1;92mAb.id6644
-\033[1;96mFacebook  \033[1;93m: \033[1;92mAbid Khan
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Abid6t
+\033[1;96mAuthor  \033[1;93m: \033[1;92mSHAHELYAS
+\033[1;96mInstagram \033[1;93m: \033[1;92m_%______
+\033[1;96mFacebook  \033[1;93m: \033[1;92mSHAHELYAS
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/AFGHACKER
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "Abid6t"
-CorrectPassword = "Abid"
+CorrectUsername = "Elyas"
+CorrectPassword = "Hack"
 
 loop = 'true'
 while (loop == 'true'):
